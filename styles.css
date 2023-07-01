@@ -320,8 +320,20 @@ button{
         height:67.8vh;
         overflow: hidden;  
     }
+    
     button{
-        margin-bottom: 1.5rem;
+        margin-left: 2rem;
+        margin-top:3rem ;
+        padding:1rem;
+        border-left: solid 1px black;
+        border-right: solid 1px black;
+        border-radius: 50px;
+        font-size: 1rem;
+        letter-spacing: 0.03rem;
+        border: none;
+        width: 9vw;
+        font-family: var(--body-font-style);
+        /* animation: button-color 10s linear infinite; */
     }
 
 }
