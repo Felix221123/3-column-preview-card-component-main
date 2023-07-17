@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 <<<<<<< HEAD
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-HHdM8tJQHK]
 =======
 - Solution URL: (https://github.com/Felix221123/3-column-preview-card-component-main]
 >>>>>>> b87e6e7a7fde9f4d84904cee9ce092df84eada3c
